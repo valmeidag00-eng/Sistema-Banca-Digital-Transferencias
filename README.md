@@ -2,13 +2,13 @@
 
 Sistema de Banca Digital – Transferencias entre Cuentas
 
-Descripción
+Descripción:
 Proyecto de QA Manual enfocado en la validación del módulo de transferencias entre cuentas de una aplicación de banca digital.
 
-Objetivo
+Objetivo:
 Garantizar que las transferencias se ejecuten correctamente y cumplan las reglas de negocio definidas, contribuyendo a la calidad y confiabilidad del sistema.
 
-Requisitos Funcionales.
+Requisitos Funcionales
 Matriz de Trazabilidad.
 Casos de Prueba.
 Reporte de Defectos.
